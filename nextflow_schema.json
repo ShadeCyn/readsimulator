@@ -134,8 +134,7 @@
                     "type": "string",
                     "description": "Sequencing system of reads to be simulated.",
                     "default": "HS25",
-                    "help_text": "Can be 'GA1' for Genome Analyser I, 'GA2' for Genome Analyser II, 'HS10' for HiSeq 1000, 'HS20' for HiSeq 2000, 'HS25' for HiSeq 2500, or 'MS' for MiSeq.",
-                    "enum": ["GA1", "GA2", "HS10", "HS20", "HS25", "MS"]
+                    "help_text": "Can be 'GA1' for Genome Analyser I, 'GA2' for Genome Analyser II, 'HS10' for HiSeq 1000, 'HS20' for HiSeq 2000, 'HS25' for HiSeq 2500, or 'MS' for MiSeq."
                 }
             }
         },
